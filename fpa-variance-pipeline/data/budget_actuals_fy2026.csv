@@ -1,0 +1,901 @@
+fiscal_year,month,cost_center,account_group,budget,actual
+2026,1,Retail Banking Operations,Salaries & Benefits,174000,169860
+2026,2,Retail Banking Operations,Salaries & Benefits,174000,175256
+2026,3,Retail Banking Operations,Salaries & Benefits,174000,164101
+2026,4,Retail Banking Operations,Salaries & Benefits,174000,181286
+2026,5,Retail Banking Operations,Salaries & Benefits,174000,177332
+2026,6,Retail Banking Operations,Salaries & Benefits,174000,172476
+2026,7,Retail Banking Operations,Salaries & Benefits,174000,172372
+2026,8,Retail Banking Operations,Salaries & Benefits,174000,175586
+2026,9,Retail Banking Operations,Salaries & Benefits,174000,172603
+2026,10,Retail Banking Operations,Salaries & Benefits,174000,172821
+2026,11,Retail Banking Operations,Salaries & Benefits,174000,177759
+2026,12,Retail Banking Operations,Salaries & Benefits,174000,176687
+2026,1,Retail Banking Operations,Occupancy,36000,35931
+2026,2,Retail Banking Operations,Occupancy,36000,35908
+2026,3,Retail Banking Operations,Occupancy,36000,36174
+2026,4,Retail Banking Operations,Occupancy,36000,35337
+2026,5,Retail Banking Operations,Occupancy,36000,35564
+2026,6,Retail Banking Operations,Occupancy,36000,36592
+2026,7,Retail Banking Operations,Occupancy,36000,35859
+2026,8,Retail Banking Operations,Occupancy,36000,34516
+2026,9,Retail Banking Operations,Occupancy,36000,35485
+2026,10,Retail Banking Operations,Occupancy,36000,36709
+2026,11,Retail Banking Operations,Occupancy,36000,35749
+2026,12,Retail Banking Operations,Occupancy,36000,35839
+2026,1,Retail Banking Operations,Technology/Software,39000,39751
+2026,2,Retail Banking Operations,Technology/Software,39000,41135
+2026,3,Retail Banking Operations,Technology/Software,39000,38166
+2026,4,Retail Banking Operations,Technology/Software,39000,40577
+2026,5,Retail Banking Operations,Technology/Software,39000,37561
+2026,6,Retail Banking Operations,Technology/Software,39000,39205
+2026,7,Retail Banking Operations,Technology/Software,39000,37632
+2026,8,Retail Banking Operations,Technology/Software,39000,40581
+2026,9,Retail Banking Operations,Technology/Software,39000,39976
+2026,10,Retail Banking Operations,Technology/Software,39000,40331
+2026,11,Retail Banking Operations,Technology/Software,39000,37964
+2026,12,Retail Banking Operations,Technology/Software,39000,39801
+2026,1,Retail Banking Operations,Professional Services,21000,20673
+2026,2,Retail Banking Operations,Professional Services,21000,20712
+2026,3,Retail Banking Operations,Professional Services,21000,21319
+2026,4,Retail Banking Operations,Professional Services,21000,21552
+2026,5,Retail Banking Operations,Professional Services,21000,21129
+2026,6,Retail Banking Operations,Professional Services,21000,20604
+2026,7,Retail Banking Operations,Professional Services,21000,20480
+2026,8,Retail Banking Operations,Professional Services,21000,21910
+2026,9,Retail Banking Operations,Professional Services,21000,21374
+2026,10,Retail Banking Operations,Professional Services,21000,21453
+2026,11,Retail Banking Operations,Professional Services,21000,22376
+2026,12,Retail Banking Operations,Professional Services,21000,20486
+2026,1,Retail Banking Operations,Other Operating Expense,30000,32304
+2026,2,Retail Banking Operations,Other Operating Expense,30000,32836
+2026,3,Retail Banking Operations,Other Operating Expense,30000,31457
+2026,4,Retail Banking Operations,Other Operating Expense,30000,30744
+2026,5,Retail Banking Operations,Other Operating Expense,30000,29403
+2026,6,Retail Banking Operations,Other Operating Expense,30000,30895
+2026,7,Retail Banking Operations,Other Operating Expense,30000,29602
+2026,8,Retail Banking Operations,Other Operating Expense,30000,29981
+2026,9,Retail Banking Operations,Other Operating Expense,30000,29739
+2026,10,Retail Banking Operations,Other Operating Expense,30000,30255
+2026,11,Retail Banking Operations,Other Operating Expense,30000,31159
+2026,12,Retail Banking Operations,Other Operating Expense,30000,29500
+2026,1,Commercial Lending,Salaries & Benefits,140200,136055
+2026,2,Commercial Lending,Salaries & Benefits,140200,135982
+2026,3,Commercial Lending,Salaries & Benefits,140200,160630
+2026,4,Commercial Lending,Salaries & Benefits,140200,134181
+2026,5,Commercial Lending,Salaries & Benefits,140200,136360
+2026,6,Commercial Lending,Salaries & Benefits,140200,145639
+2026,7,Commercial Lending,Salaries & Benefits,140200,137705
+2026,8,Commercial Lending,Salaries & Benefits,140200,141281
+2026,9,Commercial Lending,Salaries & Benefits,140200,135082
+2026,10,Commercial Lending,Salaries & Benefits,140200,140914
+2026,11,Commercial Lending,Salaries & Benefits,140200,132878
+2026,12,Commercial Lending,Salaries & Benefits,140200,137261
+2026,1,Commercial Lending,Occupancy,29000,30961
+2026,2,Commercial Lending,Occupancy,29000,28493
+2026,3,Commercial Lending,Occupancy,29000,29974
+2026,4,Commercial Lending,Occupancy,29000,29396
+2026,5,Commercial Lending,Occupancy,29000,28867
+2026,6,Commercial Lending,Occupancy,29000,28433
+2026,7,Commercial Lending,Occupancy,29000,30120
+2026,8,Commercial Lending,Occupancy,29000,28846
+2026,9,Commercial Lending,Occupancy,29000,30329
+2026,10,Commercial Lending,Occupancy,29000,28374
+2026,11,Commercial Lending,Occupancy,29000,29050
+2026,12,Commercial Lending,Occupancy,29000,29405
+2026,1,Commercial Lending,Technology/Software,31400,31752
+2026,2,Commercial Lending,Technology/Software,31400,30238
+2026,3,Commercial Lending,Technology/Software,31400,30774
+2026,4,Commercial Lending,Technology/Software,31400,31215
+2026,5,Commercial Lending,Technology/Software,31400,30596
+2026,6,Commercial Lending,Technology/Software,31400,32038
+2026,7,Commercial Lending,Technology/Software,31400,31954
+2026,8,Commercial Lending,Technology/Software,31400,29556
+2026,9,Commercial Lending,Technology/Software,31400,29699
+2026,10,Commercial Lending,Technology/Software,31400,30193
+2026,11,Commercial Lending,Technology/Software,31400,31510
+2026,12,Commercial Lending,Technology/Software,31400,33315
+2026,1,Commercial Lending,Professional Services,16900,16706
+2026,2,Commercial Lending,Professional Services,16900,17027
+2026,3,Commercial Lending,Professional Services,16900,16361
+2026,4,Commercial Lending,Professional Services,16900,16369
+2026,5,Commercial Lending,Professional Services,16900,15908
+2026,6,Commercial Lending,Professional Services,16900,16886
+2026,7,Commercial Lending,Professional Services,16900,17380
+2026,8,Commercial Lending,Professional Services,16900,16719
+2026,9,Commercial Lending,Professional Services,16900,17608
+2026,10,Commercial Lending,Professional Services,16900,17000
+2026,11,Commercial Lending,Professional Services,16900,16882
+2026,12,Commercial Lending,Professional Services,16900,17162
+2026,1,Commercial Lending,Other Operating Expense,24200,24554
+2026,2,Commercial Lending,Other Operating Expense,24200,25033
+2026,3,Commercial Lending,Other Operating Expense,24200,23618
+2026,4,Commercial Lending,Other Operating Expense,24200,22539
+2026,5,Commercial Lending,Other Operating Expense,24200,24283
+2026,6,Commercial Lending,Other Operating Expense,24200,23756
+2026,7,Commercial Lending,Other Operating Expense,24200,24180
+2026,8,Commercial Lending,Other Operating Expense,24200,25408
+2026,9,Commercial Lending,Other Operating Expense,24200,23399
+2026,10,Commercial Lending,Other Operating Expense,24200,24755
+2026,11,Commercial Lending,Other Operating Expense,24200,24887
+2026,12,Commercial Lending,Other Operating Expense,24200,24534
+2026,1,IT & Information Security,Salaries & Benefits,116000,119892
+2026,2,IT & Information Security,Salaries & Benefits,116000,114405
+2026,3,IT & Information Security,Salaries & Benefits,116000,113628
+2026,4,IT & Information Security,Salaries & Benefits,116000,119616
+2026,5,IT & Information Security,Salaries & Benefits,116000,118507
+2026,6,IT & Information Security,Salaries & Benefits,116000,120839
+2026,7,IT & Information Security,Salaries & Benefits,116000,116739
+2026,8,IT & Information Security,Salaries & Benefits,116000,121650
+2026,9,IT & Information Security,Salaries & Benefits,116000,115018
+2026,10,IT & Information Security,Salaries & Benefits,116000,112310
+2026,11,IT & Information Security,Salaries & Benefits,116000,108911
+2026,12,IT & Information Security,Salaries & Benefits,116000,112167
+2026,1,IT & Information Security,Occupancy,24000,24589
+2026,2,IT & Information Security,Occupancy,24000,22945
+2026,3,IT & Information Security,Occupancy,24000,23674
+2026,4,IT & Information Security,Occupancy,24000,25517
+2026,5,IT & Information Security,Occupancy,24000,24610
+2026,6,IT & Information Security,Occupancy,24000,25290
+2026,7,IT & Information Security,Occupancy,24000,23286
+2026,8,IT & Information Security,Occupancy,24000,22229
+2026,9,IT & Information Security,Occupancy,24000,25092
+2026,10,IT & Information Security,Occupancy,24000,22980
+2026,11,IT & Information Security,Occupancy,24000,24065
+2026,12,IT & Information Security,Occupancy,24000,24156
+2026,1,IT & Information Security,Technology/Software,26000,25260
+2026,2,IT & Information Security,Technology/Software,26000,27211
+2026,3,IT & Information Security,Technology/Software,26000,27208
+2026,4,IT & Information Security,Technology/Software,26000,26430
+2026,5,IT & Information Security,Technology/Software,26000,33770
+2026,6,IT & Information Security,Technology/Software,26000,33994
+2026,7,IT & Information Security,Technology/Software,26000,32689
+2026,8,IT & Information Security,Technology/Software,26000,33558
+2026,9,IT & Information Security,Technology/Software,26000,33694
+2026,10,IT & Information Security,Technology/Software,26000,32936
+2026,11,IT & Information Security,Technology/Software,26000,34661
+2026,12,IT & Information Security,Technology/Software,26000,32354
+2026,1,IT & Information Security,Professional Services,14000,13810
+2026,2,IT & Information Security,Professional Services,14000,13054
+2026,3,IT & Information Security,Professional Services,14000,14209
+2026,4,IT & Information Security,Professional Services,14000,14312
+2026,5,IT & Information Security,Professional Services,14000,14261
+2026,6,IT & Information Security,Professional Services,14000,15226
+2026,7,IT & Information Security,Professional Services,14000,14395
+2026,8,IT & Information Security,Professional Services,14000,13604
+2026,9,IT & Information Security,Professional Services,14000,15119
+2026,10,IT & Information Security,Professional Services,14000,13613
+2026,11,IT & Information Security,Professional Services,14000,14331
+2026,12,IT & Information Security,Professional Services,14000,14312
+2026,1,IT & Information Security,Other Operating Expense,20000,19472
+2026,2,IT & Information Security,Other Operating Expense,20000,20837
+2026,3,IT & Information Security,Other Operating Expense,20000,20213
+2026,4,IT & Information Security,Other Operating Expense,20000,20343
+2026,5,IT & Information Security,Other Operating Expense,20000,19595
+2026,6,IT & Information Security,Other Operating Expense,20000,20782
+2026,7,IT & Information Security,Other Operating Expense,20000,19483
+2026,8,IT & Information Security,Other Operating Expense,20000,18933
+2026,9,IT & Information Security,Other Operating Expense,20000,20855
+2026,10,IT & Information Security,Other Operating Expense,20000,19744
+2026,11,IT & Information Security,Other Operating Expense,20000,20026
+2026,12,IT & Information Security,Other Operating Expense,20000,21154
+2026,1,Compliance & BSA,Salaries & Benefits,72500,74972
+2026,2,Compliance & BSA,Salaries & Benefits,72500,73876
+2026,3,Compliance & BSA,Salaries & Benefits,72500,74827
+2026,4,Compliance & BSA,Salaries & Benefits,72500,70918
+2026,5,Compliance & BSA,Salaries & Benefits,72500,74138
+2026,6,Compliance & BSA,Salaries & Benefits,72500,74914
+2026,7,Compliance & BSA,Salaries & Benefits,72500,74143
+2026,8,Compliance & BSA,Salaries & Benefits,72500,72056
+2026,9,Compliance & BSA,Salaries & Benefits,72500,64349
+2026,10,Compliance & BSA,Salaries & Benefits,72500,73712
+2026,11,Compliance & BSA,Salaries & Benefits,72500,72750
+2026,12,Compliance & BSA,Salaries & Benefits,72500,71696
+2026,1,Compliance & BSA,Occupancy,15000,15350
+2026,2,Compliance & BSA,Occupancy,15000,15120
+2026,3,Compliance & BSA,Occupancy,15000,15092
+2026,4,Compliance & BSA,Occupancy,15000,14332
+2026,5,Compliance & BSA,Occupancy,15000,14343
+2026,6,Compliance & BSA,Occupancy,15000,15167
+2026,7,Compliance & BSA,Occupancy,15000,15034
+2026,8,Compliance & BSA,Occupancy,15000,15062
+2026,9,Compliance & BSA,Occupancy,15000,15075
+2026,10,Compliance & BSA,Occupancy,15000,15185
+2026,11,Compliance & BSA,Occupancy,15000,15016
+2026,12,Compliance & BSA,Occupancy,15000,15071
+2026,1,Compliance & BSA,Technology/Software,16200,16324
+2026,2,Compliance & BSA,Technology/Software,16200,16652
+2026,3,Compliance & BSA,Technology/Software,16200,15950
+2026,4,Compliance & BSA,Technology/Software,16200,16582
+2026,5,Compliance & BSA,Technology/Software,16200,16509
+2026,6,Compliance & BSA,Technology/Software,16200,16251
+2026,7,Compliance & BSA,Technology/Software,16200,15969
+2026,8,Compliance & BSA,Technology/Software,16200,16379
+2026,9,Compliance & BSA,Technology/Software,16200,16620
+2026,10,Compliance & BSA,Technology/Software,16200,15678
+2026,11,Compliance & BSA,Technology/Software,16200,16230
+2026,12,Compliance & BSA,Technology/Software,16200,16231
+2026,1,Compliance & BSA,Professional Services,8800,8625
+2026,2,Compliance & BSA,Professional Services,8800,8637
+2026,3,Compliance & BSA,Professional Services,8800,8390
+2026,4,Compliance & BSA,Professional Services,8800,8509
+2026,5,Compliance & BSA,Professional Services,8800,8394
+2026,6,Compliance & BSA,Professional Services,8800,8637
+2026,7,Compliance & BSA,Professional Services,8800,8652
+2026,8,Compliance & BSA,Professional Services,8800,8657
+2026,9,Compliance & BSA,Professional Services,8800,8898
+2026,10,Compliance & BSA,Professional Services,8800,8750
+2026,11,Compliance & BSA,Professional Services,8800,8608
+2026,12,Compliance & BSA,Professional Services,8800,8609
+2026,1,Compliance & BSA,Other Operating Expense,12500,12076
+2026,2,Compliance & BSA,Other Operating Expense,12500,12426
+2026,3,Compliance & BSA,Other Operating Expense,12500,12420
+2026,4,Compliance & BSA,Other Operating Expense,12500,13109
+2026,5,Compliance & BSA,Other Operating Expense,12500,13075
+2026,6,Compliance & BSA,Other Operating Expense,12500,13054
+2026,7,Compliance & BSA,Other Operating Expense,12500,13280
+2026,8,Compliance & BSA,Other Operating Expense,12500,12044
+2026,9,Compliance & BSA,Other Operating Expense,12500,12752
+2026,10,Compliance & BSA,Other Operating Expense,12500,12785
+2026,11,Compliance & BSA,Other Operating Expense,12500,12679
+2026,12,Compliance & BSA,Other Operating Expense,12500,13298
+2026,1,Treasury,Salaries & Benefits,43500,46812
+2026,2,Treasury,Salaries & Benefits,43500,44778
+2026,3,Treasury,Salaries & Benefits,43500,44352
+2026,4,Treasury,Salaries & Benefits,43500,42035
+2026,5,Treasury,Salaries & Benefits,43500,42038
+2026,6,Treasury,Salaries & Benefits,43500,44414
+2026,7,Treasury,Salaries & Benefits,43500,43401
+2026,8,Treasury,Salaries & Benefits,43500,41764
+2026,9,Treasury,Salaries & Benefits,43500,43338
+2026,10,Treasury,Salaries & Benefits,43500,43970
+2026,11,Treasury,Salaries & Benefits,43500,44721
+2026,12,Treasury,Salaries & Benefits,43500,43359
+2026,1,Treasury,Occupancy,9000,8927
+2026,2,Treasury,Occupancy,9000,9002
+2026,3,Treasury,Occupancy,9000,9047
+2026,4,Treasury,Occupancy,9000,8686
+2026,5,Treasury,Occupancy,9000,9225
+2026,6,Treasury,Occupancy,9000,9591
+2026,7,Treasury,Occupancy,9000,9220
+2026,8,Treasury,Occupancy,9000,8609
+2026,9,Treasury,Occupancy,9000,9026
+2026,10,Treasury,Occupancy,9000,8523
+2026,11,Treasury,Occupancy,9000,8506
+2026,12,Treasury,Occupancy,9000,9178
+2026,1,Treasury,Technology/Software,9800,9823
+2026,2,Treasury,Technology/Software,9800,9598
+2026,3,Treasury,Technology/Software,9800,9186
+2026,4,Treasury,Technology/Software,9800,9427
+2026,5,Treasury,Technology/Software,9800,9848
+2026,6,Treasury,Technology/Software,9800,9809
+2026,7,Treasury,Technology/Software,9800,10003
+2026,8,Treasury,Technology/Software,9800,10248
+2026,9,Treasury,Technology/Software,9800,9700
+2026,10,Treasury,Technology/Software,9800,9938
+2026,11,Treasury,Technology/Software,9800,9759
+2026,12,Treasury,Technology/Software,9800,9654
+2026,1,Treasury,Professional Services,5300,5261
+2026,2,Treasury,Professional Services,5300,5453
+2026,3,Treasury,Professional Services,5300,5136
+2026,4,Treasury,Professional Services,5300,5481
+2026,5,Treasury,Professional Services,5300,5535
+2026,6,Treasury,Professional Services,5300,5306
+2026,7,Treasury,Professional Services,5300,5341
+2026,8,Treasury,Professional Services,5300,5076
+2026,9,Treasury,Professional Services,5300,5675
+2026,10,Treasury,Professional Services,5300,5456
+2026,11,Treasury,Professional Services,5300,5327
+2026,12,Treasury,Professional Services,5300,5309
+2026,1,Treasury,Other Operating Expense,7500,7601
+2026,2,Treasury,Other Operating Expense,7500,7353
+2026,3,Treasury,Other Operating Expense,7500,7564
+2026,4,Treasury,Other Operating Expense,7500,7292
+2026,5,Treasury,Other Operating Expense,7500,7612
+2026,6,Treasury,Other Operating Expense,7500,7347
+2026,7,Treasury,Other Operating Expense,7500,7701
+2026,8,Treasury,Other Operating Expense,7500,7473
+2026,9,Treasury,Other Operating Expense,7500,7560
+2026,10,Treasury,Other Operating Expense,7500,8166
+2026,11,Treasury,Other Operating Expense,7500,7681
+2026,12,Treasury,Other Operating Expense,7500,7560
+2026,1,Facilities,Salaries & Benefits,53200,53271
+2026,2,Facilities,Salaries & Benefits,53200,51541
+2026,3,Facilities,Salaries & Benefits,53200,54930
+2026,4,Facilities,Salaries & Benefits,53200,55757
+2026,5,Facilities,Salaries & Benefits,53200,53303
+2026,6,Facilities,Salaries & Benefits,53200,55876
+2026,7,Facilities,Salaries & Benefits,53200,53021
+2026,8,Facilities,Salaries & Benefits,53200,50370
+2026,9,Facilities,Salaries & Benefits,53200,52157
+2026,10,Facilities,Salaries & Benefits,53200,51513
+2026,11,Facilities,Salaries & Benefits,53200,52762
+2026,12,Facilities,Salaries & Benefits,53200,54201
+2026,1,Facilities,Occupancy,11000,10693
+2026,2,Facilities,Occupancy,11000,10974
+2026,3,Facilities,Occupancy,11000,11066
+2026,4,Facilities,Occupancy,11000,10758
+2026,5,Facilities,Occupancy,11000,10700
+2026,6,Facilities,Occupancy,11000,11029
+2026,7,Facilities,Occupancy,11000,20318
+2026,8,Facilities,Occupancy,11000,10801
+2026,9,Facilities,Occupancy,11000,10752
+2026,10,Facilities,Occupancy,11000,10953
+2026,11,Facilities,Occupancy,11000,11096
+2026,12,Facilities,Occupancy,11000,10821
+2026,1,Facilities,Technology/Software,11900,11781
+2026,2,Facilities,Technology/Software,11900,11817
+2026,3,Facilities,Technology/Software,11900,11512
+2026,4,Facilities,Technology/Software,11900,11837
+2026,5,Facilities,Technology/Software,11900,11700
+2026,6,Facilities,Technology/Software,11900,12465
+2026,7,Facilities,Technology/Software,11900,11715
+2026,8,Facilities,Technology/Software,11900,12063
+2026,9,Facilities,Technology/Software,11900,12035
+2026,10,Facilities,Technology/Software,11900,11501
+2026,11,Facilities,Technology/Software,11900,11454
+2026,12,Facilities,Technology/Software,11900,11741
+2026,1,Facilities,Professional Services,6400,6527
+2026,2,Facilities,Professional Services,6400,6290
+2026,3,Facilities,Professional Services,6400,6274
+2026,4,Facilities,Professional Services,6400,5843
+2026,5,Facilities,Professional Services,6400,6324
+2026,6,Facilities,Professional Services,6400,6460
+2026,7,Facilities,Professional Services,6400,6485
+2026,8,Facilities,Professional Services,6400,6482
+2026,9,Facilities,Professional Services,6400,6337
+2026,10,Facilities,Professional Services,6400,6356
+2026,11,Facilities,Professional Services,6400,6560
+2026,12,Facilities,Professional Services,6400,6374
+2026,1,Facilities,Other Operating Expense,9200,8564
+2026,2,Facilities,Other Operating Expense,9200,9482
+2026,3,Facilities,Other Operating Expense,9200,8903
+2026,4,Facilities,Other Operating Expense,9200,9580
+2026,5,Facilities,Other Operating Expense,9200,9668
+2026,6,Facilities,Other Operating Expense,9200,9410
+2026,7,Facilities,Other Operating Expense,9200,9450
+2026,8,Facilities,Other Operating Expense,9200,9713
+2026,9,Facilities,Other Operating Expense,9200,8896
+2026,10,Facilities,Other Operating Expense,9200,9270
+2026,11,Facilities,Other Operating Expense,9200,9266
+2026,12,Facilities,Other Operating Expense,9200,8933
+2026,1,Human Resources,Salaries & Benefits,38700,41036
+2026,2,Human Resources,Salaries & Benefits,38700,38026
+2026,3,Human Resources,Salaries & Benefits,38700,37851
+2026,4,Human Resources,Salaries & Benefits,38700,39011
+2026,5,Human Resources,Salaries & Benefits,38700,39897
+2026,6,Human Resources,Salaries & Benefits,38700,38002
+2026,7,Human Resources,Salaries & Benefits,38700,38004
+2026,8,Human Resources,Salaries & Benefits,38700,33392
+2026,9,Human Resources,Salaries & Benefits,38700,31488
+2026,10,Human Resources,Salaries & Benefits,38700,32133
+2026,11,Human Resources,Salaries & Benefits,38700,37727
+2026,12,Human Resources,Salaries & Benefits,38700,38196
+2026,1,Human Resources,Occupancy,8000,7966
+2026,2,Human Resources,Occupancy,8000,8443
+2026,3,Human Resources,Occupancy,8000,8218
+2026,4,Human Resources,Occupancy,8000,8005
+2026,5,Human Resources,Occupancy,8000,7946
+2026,6,Human Resources,Occupancy,8000,8210
+2026,7,Human Resources,Occupancy,8000,8103
+2026,8,Human Resources,Occupancy,8000,8214
+2026,9,Human Resources,Occupancy,8000,8331
+2026,10,Human Resources,Occupancy,8000,7758
+2026,11,Human Resources,Occupancy,8000,7459
+2026,12,Human Resources,Occupancy,8000,7995
+2026,1,Human Resources,Technology/Software,8700,8721
+2026,2,Human Resources,Technology/Software,8700,8775
+2026,3,Human Resources,Technology/Software,8700,8544
+2026,4,Human Resources,Technology/Software,8700,8639
+2026,5,Human Resources,Technology/Software,8700,8846
+2026,6,Human Resources,Technology/Software,8700,8860
+2026,7,Human Resources,Technology/Software,8700,9047
+2026,8,Human Resources,Technology/Software,8700,8135
+2026,9,Human Resources,Technology/Software,8700,8270
+2026,10,Human Resources,Technology/Software,8700,9082
+2026,11,Human Resources,Technology/Software,8700,8859
+2026,12,Human Resources,Technology/Software,8700,8907
+2026,1,Human Resources,Professional Services,4700,4660
+2026,2,Human Resources,Professional Services,4700,4633
+2026,3,Human Resources,Professional Services,4700,4728
+2026,4,Human Resources,Professional Services,4700,4567
+2026,5,Human Resources,Professional Services,4700,4484
+2026,6,Human Resources,Professional Services,4700,4543
+2026,7,Human Resources,Professional Services,4700,4716
+2026,8,Human Resources,Professional Services,4700,4790
+2026,9,Human Resources,Professional Services,4700,4933
+2026,10,Human Resources,Professional Services,4700,4752
+2026,11,Human Resources,Professional Services,4700,4767
+2026,12,Human Resources,Professional Services,4700,4938
+2026,1,Human Resources,Other Operating Expense,6700,6544
+2026,2,Human Resources,Other Operating Expense,6700,6507
+2026,3,Human Resources,Other Operating Expense,6700,6592
+2026,4,Human Resources,Other Operating Expense,6700,6681
+2026,5,Human Resources,Other Operating Expense,6700,7107
+2026,6,Human Resources,Other Operating Expense,6700,6630
+2026,7,Human Resources,Other Operating Expense,6700,6963
+2026,8,Human Resources,Other Operating Expense,6700,6605
+2026,9,Human Resources,Other Operating Expense,6700,6799
+2026,10,Human Resources,Other Operating Expense,6700,6837
+2026,11,Human Resources,Other Operating Expense,6700,6807
+2026,12,Human Resources,Other Operating Expense,6700,6851
+2026,1,Marketing,Salaries & Benefits,33800,33101
+2026,2,Marketing,Salaries & Benefits,33800,35277
+2026,3,Marketing,Salaries & Benefits,33800,34795
+2026,4,Marketing,Salaries & Benefits,33800,33088
+2026,5,Marketing,Salaries & Benefits,33800,34313
+2026,6,Marketing,Salaries & Benefits,33800,32712
+2026,7,Marketing,Salaries & Benefits,33800,33896
+2026,8,Marketing,Salaries & Benefits,33800,32613
+2026,9,Marketing,Salaries & Benefits,33800,34528
+2026,10,Marketing,Salaries & Benefits,33800,36806
+2026,11,Marketing,Salaries & Benefits,33800,35291
+2026,12,Marketing,Salaries & Benefits,33800,34541
+2026,1,Marketing,Occupancy,7000,6810
+2026,2,Marketing,Occupancy,7000,7080
+2026,3,Marketing,Occupancy,7000,7249
+2026,4,Marketing,Occupancy,7000,6981
+2026,5,Marketing,Occupancy,7000,7027
+2026,6,Marketing,Occupancy,7000,6644
+2026,7,Marketing,Occupancy,7000,6820
+2026,8,Marketing,Occupancy,7000,6612
+2026,9,Marketing,Occupancy,7000,7402
+2026,10,Marketing,Occupancy,7000,7099
+2026,11,Marketing,Occupancy,7000,7152
+2026,12,Marketing,Occupancy,7000,6957
+2026,1,Marketing,Technology/Software,7600,7267
+2026,2,Marketing,Technology/Software,7600,7640
+2026,3,Marketing,Technology/Software,7600,7455
+2026,4,Marketing,Technology/Software,7600,7379
+2026,5,Marketing,Technology/Software,7600,7613
+2026,6,Marketing,Technology/Software,7600,7625
+2026,7,Marketing,Technology/Software,7600,7559
+2026,8,Marketing,Technology/Software,7600,7423
+2026,9,Marketing,Technology/Software,7600,7375
+2026,10,Marketing,Technology/Software,7600,7601
+2026,11,Marketing,Technology/Software,7600,7879
+2026,12,Marketing,Technology/Software,7600,7234
+2026,1,Marketing,Professional Services,4100,4019
+2026,2,Marketing,Professional Services,4100,5916
+2026,3,Marketing,Professional Services,4100,5917
+2026,4,Marketing,Professional Services,4100,5839
+2026,5,Marketing,Professional Services,4100,6289
+2026,6,Marketing,Professional Services,4100,6016
+2026,7,Marketing,Professional Services,4100,5769
+2026,8,Marketing,Professional Services,4100,5609
+2026,9,Marketing,Professional Services,4100,5914
+2026,10,Marketing,Professional Services,4100,6209
+2026,11,Marketing,Professional Services,4100,5979
+2026,12,Marketing,Professional Services,4100,3815
+2026,1,Marketing,Other Operating Expense,5800,5560
+2026,2,Marketing,Other Operating Expense,5800,5821
+2026,3,Marketing,Other Operating Expense,5800,5986
+2026,4,Marketing,Other Operating Expense,5800,5825
+2026,5,Marketing,Other Operating Expense,5800,5826
+2026,6,Marketing,Other Operating Expense,5800,5987
+2026,7,Marketing,Other Operating Expense,5800,6019
+2026,8,Marketing,Other Operating Expense,5800,5682
+2026,9,Marketing,Other Operating Expense,5800,5876
+2026,10,Marketing,Other Operating Expense,5800,5633
+2026,11,Marketing,Other Operating Expense,5800,5613
+2026,12,Marketing,Other Operating Expense,5800,5902
+2026,1,Finance & Accounting,Salaries & Benefits,58000,55523
+2026,2,Finance & Accounting,Salaries & Benefits,58000,58296
+2026,3,Finance & Accounting,Salaries & Benefits,58000,58547
+2026,4,Finance & Accounting,Salaries & Benefits,58000,59499
+2026,5,Finance & Accounting,Salaries & Benefits,58000,55998
+2026,6,Finance & Accounting,Salaries & Benefits,58000,58663
+2026,7,Finance & Accounting,Salaries & Benefits,58000,57782
+2026,8,Finance & Accounting,Salaries & Benefits,58000,60586
+2026,9,Finance & Accounting,Salaries & Benefits,58000,56708
+2026,10,Finance & Accounting,Salaries & Benefits,58000,56069
+2026,11,Finance & Accounting,Salaries & Benefits,58000,58870
+2026,12,Finance & Accounting,Salaries & Benefits,58000,56511
+2026,1,Finance & Accounting,Occupancy,12000,11534
+2026,2,Finance & Accounting,Occupancy,12000,12328
+2026,3,Finance & Accounting,Occupancy,12000,12155
+2026,4,Finance & Accounting,Occupancy,12000,10880
+2026,5,Finance & Accounting,Occupancy,12000,11668
+2026,6,Finance & Accounting,Occupancy,12000,11601
+2026,7,Finance & Accounting,Occupancy,12000,12232
+2026,8,Finance & Accounting,Occupancy,12000,12530
+2026,9,Finance & Accounting,Occupancy,12000,12741
+2026,10,Finance & Accounting,Occupancy,12000,12254
+2026,11,Finance & Accounting,Occupancy,12000,11605
+2026,12,Finance & Accounting,Occupancy,12000,11593
+2026,1,Finance & Accounting,Technology/Software,13000,12628
+2026,2,Finance & Accounting,Technology/Software,13000,13191
+2026,3,Finance & Accounting,Technology/Software,13000,13494
+2026,4,Finance & Accounting,Technology/Software,13000,12252
+2026,5,Finance & Accounting,Technology/Software,13000,13238
+2026,6,Finance & Accounting,Technology/Software,13000,13362
+2026,7,Finance & Accounting,Technology/Software,13000,13123
+2026,8,Finance & Accounting,Technology/Software,13000,14262
+2026,9,Finance & Accounting,Technology/Software,13000,13209
+2026,10,Finance & Accounting,Technology/Software,13000,13013
+2026,11,Finance & Accounting,Technology/Software,13000,13238
+2026,12,Finance & Accounting,Technology/Software,13000,12788
+2026,1,Finance & Accounting,Professional Services,7000,6769
+2026,2,Finance & Accounting,Professional Services,7000,7089
+2026,3,Finance & Accounting,Professional Services,7000,7242
+2026,4,Finance & Accounting,Professional Services,7000,6951
+2026,5,Finance & Accounting,Professional Services,7000,7194
+2026,6,Finance & Accounting,Professional Services,7000,6921
+2026,7,Finance & Accounting,Professional Services,7000,7343
+2026,8,Finance & Accounting,Professional Services,7000,7045
+2026,9,Finance & Accounting,Professional Services,7000,7112
+2026,10,Finance & Accounting,Professional Services,7000,7161
+2026,11,Finance & Accounting,Professional Services,7000,6716
+2026,12,Finance & Accounting,Professional Services,7000,6962
+2026,1,Finance & Accounting,Other Operating Expense,10000,10552
+2026,2,Finance & Accounting,Other Operating Expense,10000,10011
+2026,3,Finance & Accounting,Other Operating Expense,10000,10421
+2026,4,Finance & Accounting,Other Operating Expense,10000,10265
+2026,5,Finance & Accounting,Other Operating Expense,10000,9452
+2026,6,Finance & Accounting,Other Operating Expense,10000,10212
+2026,7,Finance & Accounting,Other Operating Expense,10000,9674
+2026,8,Finance & Accounting,Other Operating Expense,10000,10078
+2026,9,Finance & Accounting,Other Operating Expense,10000,9875
+2026,10,Finance & Accounting,Other Operating Expense,10000,10007
+2026,11,Finance & Accounting,Other Operating Expense,10000,9979
+2026,12,Finance & Accounting,Other Operating Expense,10000,10073
+2026,1,Branch Network,Salaries & Benefits,203000,200270
+2026,2,Branch Network,Salaries & Benefits,203000,194773
+2026,3,Branch Network,Salaries & Benefits,203000,196849
+2026,4,Branch Network,Salaries & Benefits,203000,208580
+2026,5,Branch Network,Salaries & Benefits,203000,213502
+2026,6,Branch Network,Salaries & Benefits,203000,204416
+2026,7,Branch Network,Salaries & Benefits,203000,208130
+2026,8,Branch Network,Salaries & Benefits,203000,208949
+2026,9,Branch Network,Salaries & Benefits,203000,194682
+2026,10,Branch Network,Salaries & Benefits,203000,191596
+2026,11,Branch Network,Salaries & Benefits,203000,202688
+2026,12,Branch Network,Salaries & Benefits,203000,191476
+2026,1,Branch Network,Occupancy,42000,41657
+2026,2,Branch Network,Occupancy,42000,40137
+2026,3,Branch Network,Occupancy,42000,41214
+2026,4,Branch Network,Occupancy,42000,41054
+2026,5,Branch Network,Occupancy,42000,42655
+2026,6,Branch Network,Occupancy,42000,41184
+2026,7,Branch Network,Occupancy,42000,40554
+2026,8,Branch Network,Occupancy,42000,42061
+2026,9,Branch Network,Occupancy,42000,45739
+2026,10,Branch Network,Occupancy,42000,42621
+2026,11,Branch Network,Occupancy,42000,39549
+2026,12,Branch Network,Occupancy,42000,42115
+2026,1,Branch Network,Technology/Software,45500,49010
+2026,2,Branch Network,Technology/Software,45500,45731
+2026,3,Branch Network,Technology/Software,45500,47248
+2026,4,Branch Network,Technology/Software,45500,47015
+2026,5,Branch Network,Technology/Software,45500,47122
+2026,6,Branch Network,Technology/Software,45500,46934
+2026,7,Branch Network,Technology/Software,45500,45886
+2026,8,Branch Network,Technology/Software,45500,45248
+2026,9,Branch Network,Technology/Software,45500,45120
+2026,10,Branch Network,Technology/Software,45500,45664
+2026,11,Branch Network,Technology/Software,45500,46083
+2026,12,Branch Network,Technology/Software,45500,43759
+2026,1,Branch Network,Professional Services,24500,24294
+2026,2,Branch Network,Professional Services,24500,24470
+2026,3,Branch Network,Professional Services,24500,24579
+2026,4,Branch Network,Professional Services,24500,24272
+2026,5,Branch Network,Professional Services,24500,25093
+2026,6,Branch Network,Professional Services,24500,24424
+2026,7,Branch Network,Professional Services,24500,24224
+2026,8,Branch Network,Professional Services,24500,23591
+2026,9,Branch Network,Professional Services,24500,23929
+2026,10,Branch Network,Professional Services,24500,24669
+2026,11,Branch Network,Professional Services,24500,24588
+2026,12,Branch Network,Professional Services,24500,23002
+2026,1,Branch Network,Other Operating Expense,35000,29496
+2026,2,Branch Network,Other Operating Expense,35000,28095
+2026,3,Branch Network,Other Operating Expense,35000,27923
+2026,4,Branch Network,Other Operating Expense,35000,29660
+2026,5,Branch Network,Other Operating Expense,35000,29702
+2026,6,Branch Network,Other Operating Expense,35000,28087
+2026,7,Branch Network,Other Operating Expense,35000,28394
+2026,8,Branch Network,Other Operating Expense,35000,27646
+2026,9,Branch Network,Other Operating Expense,35000,29401
+2026,10,Branch Network,Other Operating Expense,35000,29479
+2026,11,Branch Network,Other Operating Expense,35000,28322
+2026,12,Branch Network,Other Operating Expense,35000,29898
+2026,1,Loan Servicing,Salaries & Benefits,77300,79430
+2026,2,Loan Servicing,Salaries & Benefits,77300,77013
+2026,3,Loan Servicing,Salaries & Benefits,77300,78973
+2026,4,Loan Servicing,Salaries & Benefits,77300,73463
+2026,5,Loan Servicing,Salaries & Benefits,77300,76691
+2026,6,Loan Servicing,Salaries & Benefits,77300,77884
+2026,7,Loan Servicing,Salaries & Benefits,77300,77276
+2026,8,Loan Servicing,Salaries & Benefits,77300,82054
+2026,9,Loan Servicing,Salaries & Benefits,77300,78020
+2026,10,Loan Servicing,Salaries & Benefits,77300,78150
+2026,11,Loan Servicing,Salaries & Benefits,77300,74220
+2026,12,Loan Servicing,Salaries & Benefits,77300,76865
+2026,1,Loan Servicing,Occupancy,16000,15624
+2026,2,Loan Servicing,Occupancy,16000,17127
+2026,3,Loan Servicing,Occupancy,16000,15800
+2026,4,Loan Servicing,Occupancy,16000,16057
+2026,5,Loan Servicing,Occupancy,16000,16584
+2026,6,Loan Servicing,Occupancy,16000,16315
+2026,7,Loan Servicing,Occupancy,16000,15323
+2026,8,Loan Servicing,Occupancy,16000,16306
+2026,9,Loan Servicing,Occupancy,16000,16341
+2026,10,Loan Servicing,Occupancy,16000,15913
+2026,11,Loan Servicing,Occupancy,16000,16223
+2026,12,Loan Servicing,Occupancy,16000,16050
+2026,1,Loan Servicing,Technology/Software,17300,16581
+2026,2,Loan Servicing,Technology/Software,17300,17008
+2026,3,Loan Servicing,Technology/Software,17300,17311
+2026,4,Loan Servicing,Technology/Software,17300,16996
+2026,5,Loan Servicing,Technology/Software,17300,17580
+2026,6,Loan Servicing,Technology/Software,17300,17820
+2026,7,Loan Servicing,Technology/Software,17300,17442
+2026,8,Loan Servicing,Technology/Software,17300,17107
+2026,9,Loan Servicing,Technology/Software,17300,18007
+2026,10,Loan Servicing,Technology/Software,17300,17371
+2026,11,Loan Servicing,Technology/Software,17300,17483
+2026,12,Loan Servicing,Technology/Software,17300,16904
+2026,1,Loan Servicing,Professional Services,9300,9239
+2026,2,Loan Servicing,Professional Services,9300,9578
+2026,3,Loan Servicing,Professional Services,9300,9508
+2026,4,Loan Servicing,Professional Services,9300,9248
+2026,5,Loan Servicing,Professional Services,9300,9302
+2026,6,Loan Servicing,Professional Services,9300,9356
+2026,7,Loan Servicing,Professional Services,9300,9037
+2026,8,Loan Servicing,Professional Services,9300,9248
+2026,9,Loan Servicing,Professional Services,9300,9157
+2026,10,Loan Servicing,Professional Services,9300,8913
+2026,11,Loan Servicing,Professional Services,9300,9342
+2026,12,Loan Servicing,Professional Services,9300,9260
+2026,1,Loan Servicing,Other Operating Expense,13300,12716
+2026,2,Loan Servicing,Other Operating Expense,13300,12983
+2026,3,Loan Servicing,Other Operating Expense,13300,13265
+2026,4,Loan Servicing,Other Operating Expense,13300,12146
+2026,5,Loan Servicing,Other Operating Expense,13300,13373
+2026,6,Loan Servicing,Other Operating Expense,13300,13406
+2026,7,Loan Servicing,Other Operating Expense,13300,13559
+2026,8,Loan Servicing,Other Operating Expense,13300,13062
+2026,9,Loan Servicing,Other Operating Expense,13300,12732
+2026,10,Loan Servicing,Other Operating Expense,13300,13551
+2026,11,Loan Servicing,Other Operating Expense,13300,12751
+2026,12,Loan Servicing,Other Operating Expense,13300,13516
+2026,1,Wealth Management,Salaries & Benefits,48300,47321
+2026,2,Wealth Management,Salaries & Benefits,48300,46833
+2026,3,Wealth Management,Salaries & Benefits,48300,48726
+2026,4,Wealth Management,Salaries & Benefits,48300,49926
+2026,5,Wealth Management,Salaries & Benefits,48300,48073
+2026,6,Wealth Management,Salaries & Benefits,48300,47944
+2026,7,Wealth Management,Salaries & Benefits,48300,45853
+2026,8,Wealth Management,Salaries & Benefits,48300,49504
+2026,9,Wealth Management,Salaries & Benefits,48300,48406
+2026,10,Wealth Management,Salaries & Benefits,48300,47906
+2026,11,Wealth Management,Salaries & Benefits,48300,50196
+2026,12,Wealth Management,Salaries & Benefits,48300,46029
+2026,1,Wealth Management,Occupancy,10000,9849
+2026,2,Wealth Management,Occupancy,10000,10001
+2026,3,Wealth Management,Occupancy,10000,9911
+2026,4,Wealth Management,Occupancy,10000,9269
+2026,5,Wealth Management,Occupancy,10000,10105
+2026,6,Wealth Management,Occupancy,10000,9991
+2026,7,Wealth Management,Occupancy,10000,10303
+2026,8,Wealth Management,Occupancy,10000,10612
+2026,9,Wealth Management,Occupancy,10000,9944
+2026,10,Wealth Management,Occupancy,10000,10115
+2026,11,Wealth Management,Occupancy,10000,10076
+2026,12,Wealth Management,Occupancy,10000,10051
+2026,1,Wealth Management,Technology/Software,10800,10755
+2026,2,Wealth Management,Technology/Software,10800,10925
+2026,3,Wealth Management,Technology/Software,10800,11166
+2026,4,Wealth Management,Technology/Software,10800,10525
+2026,5,Wealth Management,Technology/Software,10800,11416
+2026,6,Wealth Management,Technology/Software,10800,10964
+2026,7,Wealth Management,Technology/Software,10800,10898
+2026,8,Wealth Management,Technology/Software,10800,10071
+2026,9,Wealth Management,Technology/Software,10800,10797
+2026,10,Wealth Management,Technology/Software,10800,16774
+2026,11,Wealth Management,Technology/Software,10800,17578
+2026,12,Wealth Management,Technology/Software,10800,17775
+2026,1,Wealth Management,Professional Services,5800,6000
+2026,2,Wealth Management,Professional Services,5800,5771
+2026,3,Wealth Management,Professional Services,5800,5787
+2026,4,Wealth Management,Professional Services,5800,5876
+2026,5,Wealth Management,Professional Services,5800,5435
+2026,6,Wealth Management,Professional Services,5800,5725
+2026,7,Wealth Management,Professional Services,5800,5706
+2026,8,Wealth Management,Professional Services,5800,5891
+2026,9,Wealth Management,Professional Services,5800,5720
+2026,10,Wealth Management,Professional Services,5800,5929
+2026,11,Wealth Management,Professional Services,5800,5766
+2026,12,Wealth Management,Professional Services,5800,5949
+2026,1,Wealth Management,Other Operating Expense,8300,8852
+2026,2,Wealth Management,Other Operating Expense,8300,8688
+2026,3,Wealth Management,Other Operating Expense,8300,8536
+2026,4,Wealth Management,Other Operating Expense,8300,8585
+2026,5,Wealth Management,Other Operating Expense,8300,8209
+2026,6,Wealth Management,Other Operating Expense,8300,8108
+2026,7,Wealth Management,Other Operating Expense,8300,8089
+2026,8,Wealth Management,Other Operating Expense,8300,8349
+2026,9,Wealth Management,Other Operating Expense,8300,8667
+2026,10,Wealth Management,Other Operating Expense,8300,8118
+2026,11,Wealth Management,Other Operating Expense,8300,8417
+2026,12,Wealth Management,Other Operating Expense,8300,7989
+2026,1,Internal Audit,Salaries & Benefits,29000,27942
+2026,2,Internal Audit,Salaries & Benefits,29000,29746
+2026,3,Internal Audit,Salaries & Benefits,29000,28403
+2026,4,Internal Audit,Salaries & Benefits,29000,28378
+2026,5,Internal Audit,Salaries & Benefits,29000,30719
+2026,6,Internal Audit,Salaries & Benefits,29000,29060
+2026,7,Internal Audit,Salaries & Benefits,29000,28961
+2026,8,Internal Audit,Salaries & Benefits,29000,28800
+2026,9,Internal Audit,Salaries & Benefits,29000,29361
+2026,10,Internal Audit,Salaries & Benefits,29000,28384
+2026,11,Internal Audit,Salaries & Benefits,29000,29050
+2026,12,Internal Audit,Salaries & Benefits,29000,29945
+2026,1,Internal Audit,Occupancy,6000,5942
+2026,2,Internal Audit,Occupancy,6000,5572
+2026,3,Internal Audit,Occupancy,6000,5882
+2026,4,Internal Audit,Occupancy,6000,6138
+2026,5,Internal Audit,Occupancy,6000,6202
+2026,6,Internal Audit,Occupancy,6000,6065
+2026,7,Internal Audit,Occupancy,6000,6257
+2026,8,Internal Audit,Occupancy,6000,5813
+2026,9,Internal Audit,Occupancy,6000,6230
+2026,10,Internal Audit,Occupancy,6000,6038
+2026,11,Internal Audit,Occupancy,6000,6122
+2026,12,Internal Audit,Occupancy,6000,5485
+2026,1,Internal Audit,Technology/Software,6500,6674
+2026,2,Internal Audit,Technology/Software,6500,6545
+2026,3,Internal Audit,Technology/Software,6500,6872
+2026,4,Internal Audit,Technology/Software,6500,6537
+2026,5,Internal Audit,Technology/Software,6500,6310
+2026,6,Internal Audit,Technology/Software,6500,6343
+2026,7,Internal Audit,Technology/Software,6500,6579
+2026,8,Internal Audit,Technology/Software,6500,6560
+2026,9,Internal Audit,Technology/Software,6500,6376
+2026,10,Internal Audit,Technology/Software,6500,6292
+2026,11,Internal Audit,Technology/Software,6500,6796
+2026,12,Internal Audit,Technology/Software,6500,6453
+2026,1,Internal Audit,Professional Services,3500,3493
+2026,2,Internal Audit,Professional Services,3500,3444
+2026,3,Internal Audit,Professional Services,3500,3647
+2026,4,Internal Audit,Professional Services,3500,3617
+2026,5,Internal Audit,Professional Services,3500,3393
+2026,6,Internal Audit,Professional Services,3500,3492
+2026,7,Internal Audit,Professional Services,3500,3403
+2026,8,Internal Audit,Professional Services,3500,3695
+2026,9,Internal Audit,Professional Services,3500,3547
+2026,10,Internal Audit,Professional Services,3500,3471
+2026,11,Internal Audit,Professional Services,3500,3465
+2026,12,Internal Audit,Professional Services,3500,3557
+2026,1,Internal Audit,Other Operating Expense,5000,4963
+2026,2,Internal Audit,Other Operating Expense,5000,5231
+2026,3,Internal Audit,Other Operating Expense,5000,4861
+2026,4,Internal Audit,Other Operating Expense,5000,4815
+2026,5,Internal Audit,Other Operating Expense,5000,5212
+2026,6,Internal Audit,Other Operating Expense,5000,4936
+2026,7,Internal Audit,Other Operating Expense,5000,5213
+2026,8,Internal Audit,Other Operating Expense,5000,5132
+2026,9,Internal Audit,Other Operating Expense,5000,4796
+2026,10,Internal Audit,Other Operating Expense,5000,4909
+2026,11,Internal Audit,Other Operating Expense,5000,5007
+2026,12,Internal Audit,Other Operating Expense,5000,4967
+2026,1,Deposit Operations,Salaries & Benefits,62800,63371
+2026,2,Deposit Operations,Salaries & Benefits,62800,61646
+2026,3,Deposit Operations,Salaries & Benefits,62800,62640
+2026,4,Deposit Operations,Salaries & Benefits,62800,64687
+2026,5,Deposit Operations,Salaries & Benefits,62800,65311
+2026,6,Deposit Operations,Salaries & Benefits,62800,61312
+2026,7,Deposit Operations,Salaries & Benefits,62800,62363
+2026,8,Deposit Operations,Salaries & Benefits,62800,62561
+2026,9,Deposit Operations,Salaries & Benefits,62800,60257
+2026,10,Deposit Operations,Salaries & Benefits,62800,64567
+2026,11,Deposit Operations,Salaries & Benefits,62800,63864
+2026,12,Deposit Operations,Salaries & Benefits,62800,63782
+2026,1,Deposit Operations,Occupancy,13000,12957
+2026,2,Deposit Operations,Occupancy,13000,13339
+2026,3,Deposit Operations,Occupancy,13000,13376
+2026,4,Deposit Operations,Occupancy,13000,13452
+2026,5,Deposit Operations,Occupancy,13000,12934
+2026,6,Deposit Operations,Occupancy,13000,13136
+2026,7,Deposit Operations,Occupancy,13000,12848
+2026,8,Deposit Operations,Occupancy,13000,12874
+2026,9,Deposit Operations,Occupancy,13000,13383
+2026,10,Deposit Operations,Occupancy,13000,13021
+2026,11,Deposit Operations,Occupancy,13000,12940
+2026,12,Deposit Operations,Occupancy,13000,13235
+2026,1,Deposit Operations,Technology/Software,14100,14382
+2026,2,Deposit Operations,Technology/Software,14100,13781
+2026,3,Deposit Operations,Technology/Software,14100,13826
+2026,4,Deposit Operations,Technology/Software,14100,14401
+2026,5,Deposit Operations,Technology/Software,14100,14323
+2026,6,Deposit Operations,Technology/Software,14100,14011
+2026,7,Deposit Operations,Technology/Software,14100,14606
+2026,8,Deposit Operations,Technology/Software,14100,14058
+2026,9,Deposit Operations,Technology/Software,14100,13283
+2026,10,Deposit Operations,Technology/Software,14100,13763
+2026,11,Deposit Operations,Technology/Software,14100,13476
+2026,12,Deposit Operations,Technology/Software,14100,14585
+2026,1,Deposit Operations,Professional Services,7600,7715
+2026,2,Deposit Operations,Professional Services,7600,7627
+2026,3,Deposit Operations,Professional Services,7600,7072
+2026,4,Deposit Operations,Professional Services,7600,7263
+2026,5,Deposit Operations,Professional Services,7600,7566
+2026,6,Deposit Operations,Professional Services,7600,7194
+2026,7,Deposit Operations,Professional Services,7600,7815
+2026,8,Deposit Operations,Professional Services,7600,7577
+2026,9,Deposit Operations,Professional Services,7600,7567
+2026,10,Deposit Operations,Professional Services,7600,7586
+2026,11,Deposit Operations,Professional Services,7600,7383
+2026,12,Deposit Operations,Professional Services,7600,7362
+2026,1,Deposit Operations,Other Operating Expense,10800,10185
+2026,2,Deposit Operations,Other Operating Expense,10800,10808
+2026,3,Deposit Operations,Other Operating Expense,10800,10932
+2026,4,Deposit Operations,Other Operating Expense,10800,10723
+2026,5,Deposit Operations,Other Operating Expense,10800,10708
+2026,6,Deposit Operations,Other Operating Expense,10800,10495
+2026,7,Deposit Operations,Other Operating Expense,10800,10881
+2026,8,Deposit Operations,Other Operating Expense,10800,10006
+2026,9,Deposit Operations,Other Operating Expense,10800,10442
+2026,10,Deposit Operations,Other Operating Expense,10800,10587
+2026,11,Deposit Operations,Other Operating Expense,10800,10635
+2026,12,Deposit Operations,Other Operating Expense,10800,10871
+2026,1,Executive Administration,Salaries & Benefits,45900,45635
+2026,2,Executive Administration,Salaries & Benefits,45900,46114
+2026,3,Executive Administration,Salaries & Benefits,45900,47615
+2026,4,Executive Administration,Salaries & Benefits,45900,47789
+2026,5,Executive Administration,Salaries & Benefits,45900,46792
+2026,6,Executive Administration,Salaries & Benefits,45900,47619
+2026,7,Executive Administration,Salaries & Benefits,45900,48282
+2026,8,Executive Administration,Salaries & Benefits,45900,46410
+2026,9,Executive Administration,Salaries & Benefits,45900,43975
+2026,10,Executive Administration,Salaries & Benefits,45900,47284
+2026,11,Executive Administration,Salaries & Benefits,45900,44530
+2026,12,Executive Administration,Salaries & Benefits,45900,48464
+2026,1,Executive Administration,Occupancy,9500,9992
+2026,2,Executive Administration,Occupancy,9500,9352
+2026,3,Executive Administration,Occupancy,9500,9187
+2026,4,Executive Administration,Occupancy,9500,9304
+2026,5,Executive Administration,Occupancy,9500,9481
+2026,6,Executive Administration,Occupancy,9500,9865
+2026,7,Executive Administration,Occupancy,9500,9148
+2026,8,Executive Administration,Occupancy,9500,9751
+2026,9,Executive Administration,Occupancy,9500,8910
+2026,10,Executive Administration,Occupancy,9500,9846
+2026,11,Executive Administration,Occupancy,9500,9482
+2026,12,Executive Administration,Occupancy,9500,9557
+2026,1,Executive Administration,Technology/Software,10300,10267
+2026,2,Executive Administration,Technology/Software,10300,10589
+2026,3,Executive Administration,Technology/Software,10300,10415
+2026,4,Executive Administration,Technology/Software,10300,10822
+2026,5,Executive Administration,Technology/Software,10300,9751
+2026,6,Executive Administration,Technology/Software,10300,10020
+2026,7,Executive Administration,Technology/Software,10300,9884
+2026,8,Executive Administration,Technology/Software,10300,10522
+2026,9,Executive Administration,Technology/Software,10300,9779
+2026,10,Executive Administration,Technology/Software,10300,11051
+2026,11,Executive Administration,Technology/Software,10300,10328
+2026,12,Executive Administration,Technology/Software,10300,10678
+2026,1,Executive Administration,Professional Services,5500,5341
+2026,2,Executive Administration,Professional Services,5500,5532
+2026,3,Executive Administration,Professional Services,5500,5603
+2026,4,Executive Administration,Professional Services,5500,5383
+2026,5,Executive Administration,Professional Services,5500,5462
+2026,6,Executive Administration,Professional Services,5500,5757
+2026,7,Executive Administration,Professional Services,5500,5709
+2026,8,Executive Administration,Professional Services,5500,5596
+2026,9,Executive Administration,Professional Services,5500,5825
+2026,10,Executive Administration,Professional Services,5500,5179
+2026,11,Executive Administration,Professional Services,5500,5548
+2026,12,Executive Administration,Professional Services,5500,5437
+2026,1,Executive Administration,Other Operating Expense,7900,8237
+2026,2,Executive Administration,Other Operating Expense,7900,8163
+2026,3,Executive Administration,Other Operating Expense,7900,8177
+2026,4,Executive Administration,Other Operating Expense,7900,7759
+2026,5,Executive Administration,Other Operating Expense,7900,8033
+2026,6,Executive Administration,Other Operating Expense,7900,8156
+2026,7,Executive Administration,Other Operating Expense,7900,8207
+2026,8,Executive Administration,Other Operating Expense,7900,7680
+2026,9,Executive Administration,Other Operating Expense,7900,7738
+2026,10,Executive Administration,Other Operating Expense,7900,7958
+2026,11,Executive Administration,Other Operating Expense,7900,8231
+2026,12,Executive Administration,Other Operating Expense,7900,8047

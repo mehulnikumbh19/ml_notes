@@ -1,0 +1,11 @@
+=== Input Validation Log — run 2026-07-06T21:33:36 ===
+Source rows: 900
+
+[PASS] schema (Accuracy) — all 6 expected columns present; amount fields numeric
+[PASS] no_nulls (Completeness) — 0 null values in required fields
+[PASS] full_grid (Completeness) — 900/900 cost-center/account/month combinations present
+[PASS] uniqueness (Uniqueness) — 0 duplicate cost-center/account/month rows
+[PASS] referential_integrity (Validity) — all keys resolve to master lists
+[PASS] reasonableness (Accuracy) — 0 non-positive budgets; 0 amounts beyond $5,000,000 ceiling
+
+Overall: PASS (6/6 checks passed)
